@@ -14,10 +14,10 @@ gitPath := (Smalltalk at: #'FileDirectory' ifAbsent: [  ])
 
 See https://github.com/dalehenrich/filetree/blob/pharo1.4/tests/travisCI.st for example"
 
-Gofer new
+Metacello new
   repository: 'filetree://', gitPath, '/ABTesting/repository';
-  package:'ConfigurationOfABTesting';
-  load.
+  configuration:'ConfigurationOfABTesting';
+  get.
 
 (Smalltalk at: #ConfigurationOfABTesting) load
 
