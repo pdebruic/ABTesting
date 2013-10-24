@@ -16,7 +16,7 @@ See https://github.com/dalehenrich/filetree/blob/pharo1.4/tests/travisCI.st for 
 
 Metacello new
   repository: 'filetree://', gitPath, '/ABTesting/repository';
-  configuration:'ConfigurationOfABTesting';
+  configuration:'ABTesting';
   get.
 
 (Smalltalk at: #ConfigurationOfABTesting) load
