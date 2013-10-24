@@ -19,7 +19,7 @@ Metacello new
   configuration:'ABTesting';
   get.
 
-(Smalltalk at: #ConfigurationOfABTesting) load
+(Smalltalk at: #ConfigurationOfABTesting) load.
 
 "Run the tests"
 TravisCIHarness
