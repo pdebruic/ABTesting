@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"bootstrapPackage:from:" : "PaulDeBruicker 4/26/2010 14:05",
+		"ensureMetacello" : "PaulDeBruicker 4/26/2010 14:05",
+		"isMetacelloConfig" : "PaulDeBruicker 4/26/2010 14:05",
+		"lastMetacelloVersionLoad" : "PaulDeBruicker 4/26/2010 14:05",
+		"load" : "PaulDeBruicker 4/26/2010 14:05",
+		"metacelloVersion:loads:" : "PaulDeBruicker 4/26/2010 14:05",
+		"project" : "PaulDeBruicker 4/26/2010 14:05",
+		"unloadMetacello" : "PaulDeBruicker 4/26/2010 14:05" },
+	"instance" : {
+		"baseline100:" : "PaulDeBruicker 9/12/2013 16:50",
+		"project" : "PaulDeBruicker 4/26/2010 14:05",
+		"stable:" : "PaulDeBruicker 10/18/2011 17:03",
+		"version100:" : "PaulDeBruicker 10/19/2011 08:00",
+		"version110:" : "PaulDeBruicker 9/12/2013 16:50" } }

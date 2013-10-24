@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"canBeRoot" : "PaulDeBruicker 6/21/2011 08:59",
+		"initialize" : "PaulDeBruicker 6/5/2012 10:35" },
+	"instance" : {
+		"children" : "PaulDeBruicker 6/5/2012 10:41",
+		"dashboard" : "PaulDeBruicker 6/5/2012 10:40",
+		"initialize" : "PaulDeBruicker 6/5/2012 10:41",
+		"renderContentOn:" : "PaulDeBruicker 6/5/2012 10:39",
+		"renderDescription:" : "PaulDeBruicker 6/5/2012 11:02",
+		"renderIteration:" : "PaulDeBruicker 6/5/2012 10:52",
+		"renderResults:" : "PaulDeBruicker 6/5/2012 10:40",
+		"sampleTestName" : "PaulDeBruicker 6/5/2012 10:40",
+		"user" : "PaulDeBruicker 6/5/2012 10:41" } }
